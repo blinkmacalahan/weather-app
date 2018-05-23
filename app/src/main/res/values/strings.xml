@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="open_weather_api_base_url" translatable="false">https://api.openweathermap.org/data/2.5/</string>
+    <string name="Zipcode">Zipcode</string>
+    <string name="Submit">Submit</string>
+    <string name="low_hi_temps">%1$d&#xb0; / %2$d&#xb0;</string>
+</resources>
